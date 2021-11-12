@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Reactjs-toursAPI/static/css/main.c3e53c0d.chunk.css",
+    "main.js": "/Reactjs-toursAPI/static/js/main.b6d5fd7e.chunk.js",
+    "main.js.map": "/Reactjs-toursAPI/static/js/main.b6d5fd7e.chunk.js.map",
+    "runtime-main.js": "/Reactjs-toursAPI/static/js/runtime-main.c08e9d31.js",
+    "runtime-main.js.map": "/Reactjs-toursAPI/static/js/runtime-main.c08e9d31.js.map",
+    "static/js/2.d8a71053.chunk.js": "/Reactjs-toursAPI/static/js/2.d8a71053.chunk.js",
+    "static/js/2.d8a71053.chunk.js.map": "/Reactjs-toursAPI/static/js/2.d8a71053.chunk.js.map",
+    "index.html": "/Reactjs-toursAPI/index.html",
+    "precache-manifest.75ddab596f4808807d9e455b5116ee6a.js": "/Reactjs-toursAPI/precache-manifest.75ddab596f4808807d9e455b5116ee6a.js",
+    "service-worker.js": "/Reactjs-toursAPI/service-worker.js",
+    "static/css/main.c3e53c0d.chunk.css.map": "/Reactjs-toursAPI/static/css/main.c3e53c0d.chunk.css.map",
+    "static/js/2.d8a71053.chunk.js.LICENSE.txt": "/Reactjs-toursAPI/static/js/2.d8a71053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c08e9d31.js",
+    "static/js/2.d8a71053.chunk.js",
+    "static/css/main.c3e53c0d.chunk.css",
+    "static/js/main.b6d5fd7e.chunk.js"
+  ]
+}
